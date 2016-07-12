@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 8f84de660879ff047a6dfe91e1ff8f61
+timeCreated: 1457993079
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Warcraft 2 - Grunt_0
+    21300002: PC Computer - Warcraft 2 - Grunt_1
+    21300004: PC Computer - Warcraft 2 - Grunt_2
+    21300006: PC Computer - Warcraft 2 - Grunt_3
+    21300008: PC Computer - Warcraft 2 - Grunt_4
+    21300010: PC Computer - Warcraft 2 - Grunt_5
+    21300012: PC Computer - Warcraft 2 - Grunt_6
+    21300014: PC Computer - Warcraft 2 - Grunt_7
+    21300016: PC Computer - Warcraft 2 - Grunt_8
+    21300018: PC Computer - Warcraft 2 - Grunt_9
+    21300020: PC Computer - Warcraft 2 - Grunt_10
+    21300022: PC Computer - Warcraft 2 - Grunt_11
+    21300024: PC Computer - Warcraft 2 - Grunt_12
+    21300026: PC Computer - Warcraft 2 - Grunt_13
+    21300028: PC Computer - Warcraft 2 - Grunt_14
+    21300030: PC Computer - Warcraft 2 - Grunt_15
+    21300032: PC Computer - Warcraft 2 - Grunt_16
+    21300034: PC Computer - Warcraft 2 - Grunt_17
+    21300036: PC Computer - Warcraft 2 - Grunt_18
+    21300038: PC Computer - Warcraft 2 - Grunt_19
+    21300040: PC Computer - Warcraft 2 - Grunt_20
+    21300042: PC Computer - Warcraft 2 - Grunt_21
+    21300044: PC Computer - Warcraft 2 - Grunt_22
+    21300046: PC Computer - Warcraft 2 - Grunt_23
+    21300048: PC Computer - Warcraft 2 - Grunt_24
+    21300050: PC Computer - Warcraft 2 - Grunt_25
+    21300052: PC Computer - Warcraft 2 - Grunt_26
+    21300054: PC Computer - Warcraft 2 - Grunt_27
+    21300056: PC Computer - Warcraft 2 - Grunt_28
+    21300058: PC Computer - Warcraft 2 - Grunt_29
+    21300060: PC Computer - Warcraft 2 - Grunt_30
+    21300062: PC Computer - Warcraft 2 - Grunt_31
+    21300064: PC Computer - Warcraft 2 - Grunt_32
+    21300066: PC Computer - Warcraft 2 - Grunt_33
+    21300068: PC Computer - Warcraft 2 - Grunt_34
+    21300070: PC Computer - Warcraft 2 - Grunt_35
+    21300072: PC Computer - Warcraft 2 - Grunt_36
+    21300074: PC Computer - Warcraft 2 - Grunt_37
+    21300076: PC Computer - Warcraft 2 - Grunt_38
+    21300078: PC Computer - Warcraft 2 - Grunt_39
+    21300080: PC Computer - Warcraft 2 - Grunt_40
+    21300082: PC Computer - Warcraft 2 - Grunt_41
+    21300084: PC Computer - Warcraft 2 - Grunt_42
+    21300086: PC Computer - Warcraft 2 - Grunt_43
+    21300088: PC Computer - Warcraft 2 - Grunt_44
+    21300090: PC Computer - Warcraft 2 - Grunt_45
+    21300092: PC Computer - Warcraft 2 - Grunt_46
+    21300094: PC Computer - Warcraft 2 - Grunt_47
+    21300096: PC Computer - Warcraft 2 - Grunt_48
+    21300098: PC Computer - Warcraft 2 - Grunt_49
+    21300100: PC Computer - Warcraft 2 - Grunt_50
+    21300102: PC Computer - Warcraft 2 - Grunt_51
+    21300104: PC Computer - Warcraft 2 - Grunt_52
+    21300106: PC Computer - Warcraft 2 - Grunt_53
+    21300108: PC Computer - Warcraft 2 - Grunt_54
+    21300110: Grunt_0
+    21300112: Grunt_1
+    21300114: Grunt_2
+    21300116: Grunt_3
+    21300118: Grunt_4
+    21300120: Grunt_5
+    21300122: Grunt_6
+    21300124: Grunt_7
+    21300126: Grunt_8
+    21300128: Grunt_9
+    21300130: Grunt_10
+    21300132: Grunt_11
+    21300134: Grunt_12
+    21300136: Grunt_13
+    21300138: Grunt_14
+    21300140: Grunt_15
+    21300142: Grunt_16
+    21300144: Grunt_17
+    21300146: Grunt_18
+    21300148: Grunt_19
+    21300150: Grunt_20
+    21300152: Grunt_21
+    21300154: Grunt_22
+    21300156: Grunt_23
+    21300158: Grunt_24
+    21300160: Grunt_25
+    21300162: Grunt_26
+    21300164: Grunt_27
+    21300166: Grunt_28
+    21300168: Grunt_29
+    21300170: Grunt_30
+    21300172: Grunt_31
+    21300174: Grunt_32
+    21300176: Grunt_33
+    21300178: Grunt_34
+    21300180: Grunt_35
+    21300182: Grunt_36
+    21300184: Grunt_37
+    21300186: Grunt_38
+    21300188: Grunt_39
+    21300190: Grunt_40
+    21300192: Grunt_41
+    21300194: Grunt_42
+    21300196: Grunt_43
+    21300198: Grunt_44
+    21300200: Grunt_45
+    21300202: Grunt_46
+    21300204: Grunt_47
+    21300206: Grunt_48
+    21300208: Grunt_49
+    21300210: Grunt_50
+    21300212: Grunt_51
+    21300214: Grunt_52
+    21300216: Grunt_53
+    21300218: Grunt_54
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Grunt_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 580
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 21.5}
+        - {x: -12, y: 21.5}
+        - {x: -15, y: 20.5}
+        - {x: -19, y: 9.5}
+        - {x: -19, y: -14.5}
+        - {x: -18, y: -16.5}
+        - {x: -17, y: -19.5}
+        - {x: -13, y: -21.5}
+        - {x: 13, y: -21.5}
+        - {x: 17, y: -19.5}
+        - {x: 19, y: -10.5}
+        - {x: 19, y: 16.5}
+    - name: Grunt_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22.5}
+        - {x: -17.5, y: 18.5}
+        - {x: -17.5, y: -12.5}
+        - {x: -11.5, y: -22.5}
+        - {x: 15.5, y: -22.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 10.5, y: 22.5}
+    - name: Grunt_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 580
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 581
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 19}
+        - {x: -16, y: 9}
+        - {x: -16, y: -18}
+        - {x: -14, y: -19}
+        - {x: 14, y: -19}
+        - {x: 16, y: -18}
+        - {x: 16, y: 18}
+        - {x: 13, y: 19}
+    - name: Grunt_4
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 578
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 18}
+        - {x: -19.5, y: 17}
+        - {x: -19.5, y: -14}
+        - {x: -18.5, y: -17}
+        - {x: -13.5, y: -18}
+        - {x: 15.5, y: -18}
+        - {x: 19.5, y: -8}
+        - {x: 19.5, y: 14}
+        - {x: 15.5, y: 18}
+    - name: Grunt_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 525
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 19.5}
+        - {x: 7.5, y: 24.5}
+        - {x: -5.5, y: 24.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -16.5, y: -24.5}
+        - {x: 4.5, y: -24.5}
+        - {x: 13.5, y: -18.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: 12.5}
+    - name: Grunt_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 530
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20.5}
+        - {x: -18.5, y: 7.5}
+        - {x: -18.5, y: -20.5}
+        - {x: 10.5, y: -20.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 18.5, y: -8.5}
+        - {x: 18.5, y: 20.5}
+    - name: Grunt_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 528
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -17}
+        - {x: -19.5, y: -20}
+        - {x: 21.5, y: -20}
+        - {x: 21.5, y: 8}
+        - {x: 15.5, y: 20}
+        - {x: -13.5, y: 20}
+        - {x: -21.5, y: 11}
+    - name: Grunt_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 522
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 20}
+        - {x: -1.5, y: 20}
+        - {x: -19.5, y: 10}
+        - {x: -19.5, y: -16}
+        - {x: -9.5, y: -20}
+        - {x: 14.5, y: -20}
+        - {x: 19.5, y: -15}
+        - {x: 19.5, y: 10}
+        - {x: 18.5, y: 18}
+    - name: Grunt_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 524
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 18}
+        - {x: -16.5, y: -9}
+        - {x: -13.5, y: -18}
+        - {x: 16.5, y: -18}
+        - {x: 16.5, y: 18}
+    - name: Grunt_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 472
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 22}
+        - {x: -17.5, y: 16}
+        - {x: -17.5, y: -21}
+        - {x: -16.5, y: -22}
+        - {x: 5.5, y: -22}
+        - {x: 12.5, y: -20}
+        - {x: 17.5, y: -19}
+        - {x: 17.5, y: 22}
+    - name: Grunt_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 476
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21}
+        - {x: -18.5, y: 0}
+        - {x: -18.5, y: -19}
+        - {x: -15.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 14.5, y: -17}
+        - {x: 18.5, y: 2}
+        - {x: 18.5, y: 21}
+    - name: Grunt_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 474
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 20.5}
+        - {x: -21, y: 19.5}
+        - {x: -21, y: -20.5}
+        - {x: 11, y: -20.5}
+        - {x: 21, y: -6.5}
+        - {x: 21, y: 12.5}
+        - {x: 8, y: 20.5}
+    - name: Grunt_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 469
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 20.5}
+        - {x: -9, y: 20.5}
+        - {x: -19, y: 13.5}
+        - {x: -19, y: -15.5}
+        - {x: -10, y: -20.5}
+        - {x: 9, y: -20.5}
+        - {x: 19, y: -18.5}
+        - {x: 19, y: 13.5}
+        - {x: 18, y: 19.5}
+    - name: Grunt_14
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 469
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 18.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -15.5}
+        - {x: -12, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 17, y: -9.5}
+        - {x: 17, y: 8.5}
+        - {x: 16, y: 14.5}
+    - name: Grunt_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 416
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 22}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 22}
+    - name: Grunt_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 416
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -7.5}
+        - {x: 23, y: -4.5}
+        - {x: 23, y: 6.5}
+        - {x: 14, y: 18.5}
+        - {x: 10, y: 23.5}
+        - {x: -7, y: 23.5}
+        - {x: -23, y: 14.5}
+        - {x: -23, y: -8.5}
+        - {x: -21, y: -11.5}
+        - {x: -10, y: -23.5}
+        - {x: 5, y: -23.5}
+        - {x: 15, y: -20.5}
+        - {x: 18, y: -12.5}
+        - {x: 14, y: -10.5}
+    - name: Grunt_17
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 20.5}
+        - {x: -18, y: -9.5}
+        - {x: -17, y: -17.5}
+        - {x: -15, y: -20.5}
+        - {x: 9, y: -20.5}
+        - {x: 17, y: -18.5}
+        - {x: 18, y: -17.5}
+        - {x: 18, y: 20.5}
+    - name: Grunt_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 419
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 413
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 20}
+        - {x: -18.5, y: -16}
+        - {x: -16.5, y: -18}
+        - {x: -8.5, y: -20}
+        - {x: 12.5, y: -20}
+        - {x: 18.5, y: -13}
+        - {x: 18.5, y: 20}
+    - name: Grunt_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 363
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21.5}
+        - {x: -18.5, y: 11.5}
+        - {x: -18.5, y: -19.5}
+        - {x: -5.5, y: -21.5}
+        - {x: 15.5, y: -21.5}
+        - {x: 18.5, y: -14.5}
+        - {x: 18.5, y: 13.5}
+        - {x: 16.5, y: 21.5}
+    - name: Grunt_21
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 363
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 23.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -12.5}
+        - {x: -9.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 19.5, y: -18.5}
+        - {x: 19.5, y: 22.5}
+        - {x: 16.5, y: 23.5}
+    - name: Grunt_22
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 367
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 367
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18.5}
+        - {x: -17, y: 4.5}
+        - {x: -17, y: -14.5}
+        - {x: -14, y: -18.5}
+        - {x: 9, y: -18.5}
+        - {x: 17, y: -15.5}
+        - {x: 17, y: 17.5}
+        - {x: 15, y: 18.5}
+    - name: Grunt_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 363
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 17.5}
+        - {x: -18.5, y: 14.5}
+        - {x: -18.5, y: -10.5}
+        - {x: -9.5, y: -17.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 17.5}
+    - name: Grunt_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -26.5, y: 5}
+        - {x: -26.5, y: -21}
+        - {x: -23.5, y: -22}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: 22}
+    - name: Grunt_26
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 337
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 309
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 22}
+        - {x: -6.5, y: 19}
+        - {x: -22.5, y: 19}
+        - {x: -22.5, y: -2}
+        - {x: -17.5, y: -14}
+        - {x: -6.5, y: -22}
+        - {x: 13.5, y: -22}
+        - {x: 16.5, y: -21}
+        - {x: 22.5, y: -9}
+        - {x: 22.5, y: 13}
+        - {x: 10.5, y: 22}
+    - name: Grunt_28
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 309
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 25.5}
+        - {x: -18, y: 25.5}
+        - {x: -18, y: -3.5}
+        - {x: -14, y: -3.5}
+        - {x: -12, y: -0.5}
+        - {x: -12, y: 1.5}
+        - {x: -12, y: -7.5}
+        - {x: -14, y: -11.5}
+        - {x: -15, y: -18.5}
+        - {x: -10, y: -25.5}
+        - {x: 8, y: -25.5}
+        - {x: 18, y: -18.5}
+        - {x: 18, y: 15.5}
+        - {x: 17, y: 17.5}
+    - name: Grunt_29
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 310
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 311
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 1}
+        - {x: 25.5, y: 7}
+        - {x: 26.5, y: 9}
+        - {x: 26.5, y: 18}
+        - {x: -18.5, y: 18}
+        - {x: -26.5, y: 16}
+        - {x: -26.5, y: -17}
+        - {x: -24.5, y: -18}
+        - {x: -0.5, y: -18}
+        - {x: 3.5, y: -15}
+        - {x: 9.5, y: -5}
+        - {x: 9.5, y: -2}
+    - name: Grunt_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 22.5}
+        - {x: -20.5, y: -5.5}
+        - {x: -20.5, y: -22.5}
+        - {x: 18.5, y: -22.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 20.5, y: 22.5}
+    - name: Grunt_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 253
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -11.5}
+        - {x: -17.5, y: -21.5}
+        - {x: 24.5, y: -21.5}
+        - {x: 27.5, y: -18.5}
+        - {x: 27.5, y: 16.5}
+        - {x: 15.5, y: 21.5}
+        - {x: -2.5, y: 21.5}
+        - {x: -27.5, y: 7.5}
+    - name: Grunt_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 253
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -25}
+        - {x: 18.5, y: -25}
+        - {x: 26.5, y: -21}
+        - {x: 26.5, y: 13}
+        - {x: 22.5, y: 20}
+        - {x: 3.5, y: 25}
+        - {x: -26.5, y: 25}
+        - {x: -26.5, y: 8}
+    - name: Grunt_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 254
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.5, y: 0}
+        - {x: 17.5, y: 24}
+        - {x: -7.5, y: 24}
+        - {x: -16.5, y: 21}
+        - {x: -17.5, y: 16}
+        - {x: -17.5, y: -24}
+        - {x: 14.5, y: -24}
+        - {x: 17.5, y: -15}
+        - {x: 15.5, y: -9}
+        - {x: 11.5, y: -6}
+    - name: Grunt_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 21}
+        - {x: -4.5, y: 20}
+        - {x: -24.5, y: -1}
+        - {x: -24.5, y: -12}
+        - {x: -19.5, y: -11}
+        - {x: -16.5, y: -15}
+        - {x: -13.5, y: -18}
+        - {x: -6.5, y: -21}
+        - {x: 22.5, y: -21}
+        - {x: 24.5, y: -19}
+        - {x: 24.5, y: 21}
+    - name: Grunt_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 195
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 22}
+        - {x: -27.5, y: 22}
+        - {x: -27.5, y: 9}
+        - {x: -26.5, y: 6}
+        - {x: -10.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 27.5, y: -9}
+        - {x: 27.5, y: 7}
+        - {x: 22.5, y: 21}
+    - name: Grunt_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 195
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_39
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 195
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 25.5}
+        - {x: -5, y: 25.5}
+        - {x: -16, y: 4.5}
+        - {x: -16, y: -21.5}
+        - {x: -12, y: -25.5}
+        - {x: 3, y: -25.5}
+        - {x: 14, y: -15.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 21.5}
+    - name: Grunt_40
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 197
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: -2.5}
+        - {x: 24.5, y: 24.5}
+        - {x: -8.5, y: 24.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -22.5, y: -24.5}
+        - {x: 12.5, y: -24.5}
+        - {x: 21.5, y: -23.5}
+        - {x: 23.5, y: -18.5}
+        - {x: 22.5, y: -15.5}
+        - {x: 16.5, y: -14.5}
+    - name: Grunt_41
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 140
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_42
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 140
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -21, y: 13}
+        - {x: -23, y: 4}
+        - {x: -23, y: -21}
+        - {x: -19, y: -23}
+        - {x: 11, y: -23}
+        - {x: 23, y: -10}
+        - {x: 23, y: 23}
+    - name: Grunt_43
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 140
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 19.5}
+        - {x: -22, y: 19.5}
+        - {x: -26, y: 12.5}
+        - {x: -26, y: -15.5}
+        - {x: -19, y: -19.5}
+        - {x: 1, y: -19.5}
+        - {x: 24, y: -12.5}
+        - {x: 26, y: -8.5}
+        - {x: 26, y: 7.5}
+    - name: Grunt_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 133
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 14}
+        - {x: 8, y: 20}
+        - {x: -18, y: 20}
+        - {x: -26, y: 14}
+        - {x: -26, y: 4}
+        - {x: -15, y: -17}
+        - {x: 5, y: -20}
+        - {x: 26, y: -20}
+        - {x: 26, y: -6}
+        - {x: 19, y: 6}
+    - name: Grunt_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 126
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 25.5}
+        - {x: -17.5, y: 1.5}
+        - {x: -4.5, y: -25.5}
+        - {x: 11.5, y: -25.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 16.5}
+        - {x: 8.5, y: 25.5}
+    - name: Grunt_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 75
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 22}
+        - {x: -21.5, y: 19}
+        - {x: -21.5, y: -16}
+        - {x: -10.5, y: -22}
+        - {x: 17.5, y: -22}
+        - {x: 19.5, y: -21}
+        - {x: 21.5, y: -18}
+        - {x: 21.5, y: 13}
+        - {x: 18.5, y: 22}
+    - name: Grunt_47
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 78
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: -7}
+        - {x: 14.5, y: -13}
+        - {x: 23.5, y: -12}
+        - {x: 23.5, y: 9}
+        - {x: 7.5, y: 22}
+        - {x: -22.5, y: 22}
+        - {x: -23.5, y: 18}
+        - {x: -23.5, y: -22}
+        - {x: 4.5, y: -22}
+        - {x: 11.5, y: -16}
+        - {x: 13.5, y: -12}
+        - {x: 13.5, y: -6}
+    - name: Grunt_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 10.5}
+        - {x: 13.5, y: 15.5}
+        - {x: 16.5, y: 26.5}
+        - {x: 13.5, y: 27.5}
+        - {x: -10.5, y: 27.5}
+        - {x: -20.5, y: 16.5}
+        - {x: -20.5, y: -26.5}
+        - {x: -16.5, y: -27.5}
+        - {x: 16.5, y: -27.5}
+        - {x: 20.5, y: -25.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 15.5, y: 17.5}
+    - name: Grunt_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_50
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 67
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 23.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: -14.5}
+        - {x: -20.5, y: -23.5}
+        - {x: 18.5, y: -23.5}
+        - {x: 27.5, y: -19.5}
+        - {x: 27.5, y: 23.5}
+    - name: Grunt_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Grunt_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 68
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.5, y: 22.5}
+        - {x: -23.5, y: 22.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -21.5, y: -22.5}
+        - {x: 3.5, y: -22.5}
+        - {x: 9.5, y: -20.5}
+        - {x: 23.5, y: -9.5}
+        - {x: 23.5, y: 8.5}
+    - name: Grunt_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 25.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -22.5, y: 11.5}
+        - {x: -22.5, y: -20.5}
+        - {x: -11.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 22.5, y: -24.5}
+        - {x: 22.5, y: 11.5}
+        - {x: 13.5, y: 25.5}
+    - name: Grunt_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 90
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 16}
+        - {x: 6, y: 16}
+        - {x: -45, y: 10}
+        - {x: -45, y: -16}
+        - {x: 45, y: -16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
